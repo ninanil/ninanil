@@ -32,15 +32,14 @@ I hold a Master's degree in Computer Science with a specialization in Artificial
 ### **API Development**
 - Designed and deployed APIs for machine learning models using **FastAPI** and **Flask**.
   - **Imageverse Web App**: An AI-powered application for generating images based on text prompts with customizable transformations and captioning uploaded images with object detection.
-### Feature and Classifier-Level Domain Adaptation in DistilHuBERT for Cross-Corpus Speech Emotion Recognition
+### Cross-Corpus Speech Emotion Recognition with Self-Supervised Models
 
-Developed a robust **Cross-Corpus Speech Emotion Recognition (CCSER)** model using **DistilHuBERT** self-supervised speech representations. Implemented **Feature-Level Domain Adaptation** and **Classifier-Level Domain Adaptation** to enhance performance across diverse datasets. Key contributions include:
+Developed a **Cross-Corpus Speech Emotion Recognition (CCSER)** model using **transfer learning** with self-supervised models like **DistilHuBERT**, **wav2vec**, and **WavLM**. Key contributions include:
 
-- **Feature Extractors:** Integrated **wav2vec** and **WavLM**, adapting features at various layers.
-- **Classifiers:** Used **SVM** and other classifiers with **Multi-Head Attention** and **Conformer Blocks**.
-- **Loss Functions:** Applied contrastive loss and other advanced techniques in a **Siamese Network** for domain shift minimization.
+- **Feature Extractors:** Integrated **wav2vec** and **WavLM**, adapting features at various layers for better representation.  
+- **Classifiers:** Used **SVM** and other classifiers with **Multi-Head Attention** and **Conformer Blocks** to improve classification accuracy.  
+- **Loss Functions:** Applied contrastive loss and advanced techniques in a **Siamese Network** to minimize domain shifts across datasets.
 
-This approach improved cross-corpus generalization by refining feature and classifier-level adaptation strategies.
 ### Object Detection with Advanced Models
 
 Implemented object detection models like **R-CNN**, **Fast R-CNN**, **Faster R-CNN**, **R-FCN**, and **YOLO** using the **PASCAL VOC** dataset. Focused on comparing their performance and optimizing detection accuracy.
