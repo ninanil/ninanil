@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Niloufar! 👋
 
-<!--
-**ninanil/ninanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I hold a Master's degree in Computer Science with a specialization in Artificial Intelligence. My interests include Generative AI, Large Language Models (LLMs), Data Science, and Computer Vision.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Python, Java, C++
+- **Frameworks:** TensorFlow, PyTorch
+- **Tools:** Git, Docker, Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Project Name:** Brief description of the project.
+- **Project Name:** Brief description of the project.
+
+## Contact
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/niloufar-naeeni/)
+
