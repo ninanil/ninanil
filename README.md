@@ -43,7 +43,7 @@ Developed a robust **Cross-Corpus Speech Emotion Recognition (CCSER)** model usi
 This approach improved cross-corpus generalization by refining feature and classifier-level adaptation strategies.
 ### Object Detection with Advanced Models
 
-Implemented object detection models like **R-CNN**, **Fast R-CNN**, **Faster R-CNN**, **R-FCN**, and **YOLO** using the **PASCAL VOC** dataset. Focused on comparing their performance and optimizing detection accuracy for real-world applications.
+Implemented object detection models like **R-CNN**, **Fast R-CNN**, **Faster R-CNN**, **R-FCN**, and **YOLO** using the **PASCAL VOC** dataset. Focused on comparing their performance and optimizing detection accuracy.
 
 ---
 
